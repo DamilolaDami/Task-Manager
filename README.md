@@ -21,8 +21,7 @@
 
 # Screenshot:
 
-<img src="/assets/images/homecreen.png" width="400"/>
-<img src="/assets/images/calendar.png" width="400"/>
+<img src="/assets/images/homecreen.png" width="400"/> | <img src="/assets/images/calendar.png" width="400"/>
 
 ## Getting Started
 
