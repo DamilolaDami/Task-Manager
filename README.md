@@ -21,7 +21,7 @@
 
 # Screenshot:
 
-<img src="/assets/images/homescreen.png"/>
+<img src="/assets/images/homecreen.png"/>
 <img src="/assets/images/calendar.png"/>
 
 ## Getting Started
