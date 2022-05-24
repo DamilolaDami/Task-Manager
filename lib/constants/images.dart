@@ -1,0 +1,15 @@
+const headImagePath = 'assets/images/';
+const userImage = headImagePath + 'taskmanagerperson.png';
+const search = headImagePath + 'search.png';
+const t = headImagePath + 't.png';
+const person1 = headImagePath + 'person1.png';
+const person2 = headImagePath + 'person2.png';
+const person3 = headImagePath + 'person3.png';
+const cireclesmall = headImagePath + 'circle-small.png';
+const zoomImage = headImagePath + 'zoom_icon.png';
+const googleMeet = headImagePath + 'google_meet.png';
+const messenger = headImagePath + 'facebook-messenger.png';
+const facebook = headImagePath + 'facebook.png';
+const apple = headImagePath + 'apple.png';
+const hiking2 = headImagePath + 'hiking-hike.png';
+const dribble = headImagePath + 'dribble.png';
