@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
+
 import 'package:google_fonts/google_fonts.dart';
+import 'package:icons_flutter/icons_flutter.dart';
 
 import '../constants/images.dart';
 import '../constants/text_color.dart';
@@ -44,7 +45,7 @@ class PinnedTaskWidget extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Stack(
-                  overflow: Overflow.visible,
+                 clipBehavior: Clip.none,
                   children: [
                     Image.asset(
                       person1,
